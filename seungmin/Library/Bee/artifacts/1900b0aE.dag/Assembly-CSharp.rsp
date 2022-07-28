@@ -357,6 +357,8 @@
 "Assets/Memory Struct/Script/Memory.cs"
 "Assets/Poly/script/Animal.cs"
 "Assets/Poly/script/Particle Manager.cs"
+"Assets/Time Delay/Script/Swiching.cs"
+"Assets/Time Delay/Script/Various.cs"
 -langversion:9.0
 
 /deterministic
